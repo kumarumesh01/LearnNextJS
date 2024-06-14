@@ -1,0 +1,12 @@
+/* app/ui/styles.css */
+.dashboard-image {
+    width: 700px;
+    height: auto;
+    padding: 10px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  
